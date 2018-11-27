@@ -20,8 +20,8 @@ const MESSAGE_TYPES = {
     text: 'Error',
   },
   warning: {
-    class: 'is-highlight',
-    glyphClass: 'has-text-highlight',
+    class: 'is-warning',
+    glyphClass: 'has-text-warning',
     glyph: 'alert-circled',
     text: 'Warning',
   },
